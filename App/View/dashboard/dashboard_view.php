@@ -1,6 +1,6 @@
 <?php require_once __DIR__."/../header.php" ?>
 
-        <h2>🧸 Dashboard cửa hàng đồ chơi</h2>
+        <h2>CỬA HÀNG MÔ HÌNH HAKUDA STORE </h2>
 
         <p>Thống kê tổng quan cửa hàng</p>
 
